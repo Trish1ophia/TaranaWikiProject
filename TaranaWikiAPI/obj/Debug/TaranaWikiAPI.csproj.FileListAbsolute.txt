@@ -1,0 +1,10 @@
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\bin\Debug\TaranaWikiAPI.exe.config
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\bin\Debug\TaranaWikiAPI.exe
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\bin\Debug\TaranaWikiAPI.pdb
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\obj\Debug\TaranaWikiAPI.csproj.AssemblyReference.cache
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\obj\Debug\TaranaWikiAPI.csproj.CoreCompileInputs.cache
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\obj\Debug\TaranaWikiAPI.exe
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\obj\Debug\TaranaWikiAPI.pdb
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\triso\source\repos\TaranaWikiAPI\TaranaWikiAPI\obj\Debug\TaranaWi.537DA882.Up2Date
